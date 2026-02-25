@@ -13,30 +13,22 @@ I am an AI Developer and Engineer experienced in building projects with Python, 
 
 Contact me: iremvlmz@gmail.com
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F724&repeat=false&width=435&lines=Skills+%26+Technologies)](https://git.io/typing-svg)
-- **Programming Languages**: Python, SQL, C, C++
-
-- **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, OpenCV, CNN, U-Net
-
-- **Robotics & Autonomous Systems**: ROS, UAVs, Autonomous Vehicles, Autonomous Robots, GPS, Sensor Integration
-
-- **Development & Engineering Tools**: ETL, Linux (Ubuntu), Docker, Proteus, AutoCAD, Microsoft Office
-
-- **Embedded Systems & Edge AI Platforms**: NVIDIA Jetson, Raspberry Pi, PX4 Autopilot
-
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F724&repeat=false&width=435&lines=Things+I'm+Good+At)](https://git.io/typing-svg)
 <table align="center">
   <tr>
     <td align="center"><img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td align="center"><img align="center" alt="vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
-    <td align="center"><img align="center" alt="typescript" height="50" width="50" src="https://
-    <td align="center"><img align="center" alt="css3" height="50" width="60" src="https://raw.
+    <td align="center"><img align="center" alt="sql" height="50" width="50" src="https://banner2.cleanpng.com/20180611/pur/aa8kqzgh0.webp" /></td>
+    <td align="center"><img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/+esm" /></td>    
+    <td align="center"><img align="center" alt="keras" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keras.svg" /></td>
+    <td align="center"><img align="center" alt="raspberry" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/raspberrypi.svg" /></td>
+    <td align="center"><img align="center" alt="nvidia" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nvidia.svg" /></td>
     <td align="center"><img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
     <td align="center"><img align="center" alt="docker" height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
     <td align="center"><img align="center" alt="linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /></td>
     <td align="center"><img align="center" alt="vscode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></td>
     <td align="center"><img align="center" alt="bash" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/></td>
   </tr>
+  
    <tr>
     <td align="center"><img align="center" alt="tensorflow" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/></td>
     <td align="center"><img align="center" alt="jupyter" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/></td>
@@ -45,7 +37,6 @@ Contact me: iremvlmz@gmail.com
   </tr>
 </table>
 </div>
-
 
 
 
