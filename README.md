@@ -16,25 +16,32 @@ Contact me: iremvlmz@gmail.com
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F724&repeat=false&width=435&lines=Things+I'm+Good+At)](https://git.io/typing-svg)
 <table align="center">
   <tr>
-    <td align="center"><img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td align="center"><img align="center" alt="sql" height="50" width="50" src="https://banner2.cleanpng.com/20180611/pur/aa8kqzgh0.webp" /></td>
-    <td align="center"><img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/+esm" /></td>    
-    <td align="center"><img align="center" alt="keras" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keras.svg" /></td>
-    <td align="center"><img align="center" alt="raspberry" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/raspberrypi.svg" /></td>
-    <td align="center"><img align="center" alt="nvidia" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nvidia.svg" /></td>
-    <td align="center"><img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
-    <td align="center"><img align="center" alt="docker" height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
-    <td align="center"><img align="center" alt="linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /></td>
-    <td align="center"><img align="center" alt="vscode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></td>
-    <td align="center"><img align="center" alt="bash" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/></td>
-  </tr>
-  
-   <tr>
-    <td align="center"><img align="center" alt="tensorflow" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/></td>
-    <td align="center"><img align="center" alt="jupyter" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/></td>
-    <td align="center"><img align="center" alt="nodejs" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/></td>
-    <td align="center"><img align="center" alt="pandas" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/></td>
-  </tr>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="sql" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" alt="tensorflow" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="50" alt="keras" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="nodejs" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" width="50" alt="pythorch" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" width="50" alt="opencv" />
+   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ros.svg" height="50" width="50" alt="ros" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" width="50" alt="jupyter" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode" />
+ </tr>
+ </tr>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" width="50" alt="pycharm" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" width="50" alt="anaconda" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="linux" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50" alt="raspberrypi" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="50" width="50" alt="nvidia" />
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/proteus.svg" height="50" width="50" alt="proteus" />
+   <img src="https://img.icons8.com/color/512/autocad.png" height="50" width="50" alt="autocad" />
+   <img src="https://img.icons8.com/color/512/microsoft-office-logo.png" height="50" width="50" alt="microsoft office" />
+ </tr>
 </table>
 </div>
 
