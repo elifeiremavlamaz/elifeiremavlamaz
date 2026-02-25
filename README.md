@@ -14,8 +14,7 @@ I am an AI Developer and Engineer experienced in building projects with Python, 
 Contact me: iremvlmz@gmail.com
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F724&repeat=false&width=435&lines=Things+I'm+Good+At)](https://git.io/typing-svg)
-<table align="center">
-  <tr>
+ <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="sql" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c" />
@@ -28,8 +27,6 @@ Contact me: iremvlmz@gmail.com
    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ros.svg" height="50" width="50" alt="ros" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" width="50" alt="jupyter" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode" />
- </tr>
- </tr>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" width="50" alt="pycharm" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" width="50" alt="anaconda" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash" />
@@ -37,11 +34,9 @@ Contact me: iremvlmz@gmail.com
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="linux" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50" alt="raspberrypi" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="50" width="50" alt="nvidia" />
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/proteus.svg" height="50" width="50" alt="proteus" />
    <img src="https://img.icons8.com/color/512/autocad.png" height="50" width="50" alt="autocad" />
-   <img src="https://img.icons8.com/color/512/microsoft-office-logo.png" height="50" width="50" alt="microsoft office" />
- </tr>
+  </p>
 </table>
 </div>
 
